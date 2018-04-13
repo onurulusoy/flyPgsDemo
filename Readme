@@ -12,7 +12,7 @@ CommandLine#2
 ************************************
 
 Prerequisity:
-  - NodeJS
+  - NodeJS (Stable version is recommended)
   - Java version should be 1.8.x
 
 node node_modules\codeceptjs-webdriverio\node_modules\codeceptjs\bin\codecept.js init
